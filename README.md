@@ -1,16 +1,15 @@
-### Hi there 👋
+# Vaishnav Manoj
+Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkering with technology and making things work. 
+* I constantly push the boundaries of what I know to create weird and wonderful projects!
+* I am currently a junior pursuing a bacherlors degree focusing on CS with specialization in Software Engineering. 🚀
 
-<!--
-**vaishnav-mk/vaishnav-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Get in touch
+- LinkedIn: https://vaishnav.tech/linkedin
+- Email: https://vaishnav.tech/email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My activity!
+![Vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-mk&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mk&layout=compact&theme=dark)](https://github.com/vaishnav-mk)
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=vaishnav-mk&theme=github" width="400">
