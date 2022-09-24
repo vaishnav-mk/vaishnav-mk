@@ -5,8 +5,8 @@ Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkerin
 
 
 ## Get in touch
-- LinkedIn: https://vaishnav.tech/linkedin
-- Email: https://vaishnav.tech/email
+- LinkedIn: [`vaishnav/linkedin`](https://vaishnav.tech/linkedin)
+- Email: [`vaishnav/email`](https://vaishnav.tech/email)
 
 
 ## Info on my commits...
