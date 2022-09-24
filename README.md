@@ -12,9 +12,10 @@ Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkerin
 ## Info on my commits...
 
 | My Github stats  | My top languages | My commit history |
-| ------------- | ------------- | ------------- |
-| ![Vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-mk&show_icons=true&theme=dark)
+| ---         |     ---      |          --- |
+| [![Vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-mk&show_icons=true&theme=dark)](https://github.com/vaishnav-mk)
   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mk&layout=compact&theme=dark)](https://github.com/vaishnav-mk)
-  | <img align="left" src="https://activity-graph.herokuapp.com/graph?username=vaishnav-mk&theme=github" width="400"> |
+  | [![Activity](https://activity-graph.herokuapp.com/graph?username=vaishnav-mk&theme=github)](https://github.com/vaishnav-mk) |
 
-~i use arch btw
+
+`~✨ i use arch btw`
