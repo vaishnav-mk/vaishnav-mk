@@ -11,7 +11,7 @@ Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkerin
 
 ## Info on my commits...
 
-| My Github stats  | My top languages | My commit history
+| My Github stats  | My top languages | My commit history |
 | ------------- | ------------- | ------------- |
 | ![Vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-mk&show_icons=true&theme=dark)
   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mk&layout=compact&theme=dark)](https://github.com/vaishnav-mk)
