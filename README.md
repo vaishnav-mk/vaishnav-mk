@@ -21,4 +21,4 @@ Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkerin
 
 
 `~✨ i use arch btw`
-![](https://komarev.com/ghpvc/?username=vaishnav-mk&color=grey)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vaishnav-mk&color=grey" alt="vaishnav-mk"/></p>
