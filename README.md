@@ -17,7 +17,7 @@ Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkerin
 
 | My commit history |
 |---|
-|[![Vaishnav](https://github-readme-activity-graph.cyclic.app/graph?username=vaishnav-mk&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+|[![Vaishnav](https://github-readme-activity-graph.vercel.app/graph?username=vaishnav-mk&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
 
 `~✨ i use arch btw`
