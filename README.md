@@ -1,12 +1,12 @@
 # Vaishnav Manoj
-Hi, I'm [Vaishnav](https://vaishnav.tech) — a CS enthusiast who loves tinkering with technology and making things work. 
+Hi, I'm [Vaishnav](https://vaishnav.one) — a CS enthusiast who loves tinkering with technology and making things work. 
 * I constantly push the boundaries of what I know to create weird and wonderful projects!
 * I am currently a junior pursuing a bacherlors degree focusing on CS with specialization in Software Engineering. 🚀
 
 
 ## Get in touch
-- LinkedIn: [`vaishnav/linkedin`](https://vaishnav.tech/linkedin)
-- Email: [`vaishnav/email`](https://vaishnav.tech/email)
+- LinkedIn: [`vaishnav/linkedin`](https://vaishnav.one/linkedin)
+- Email: [`vaishnav/email`](https://vaishnav.one/email)
 
 
 ## Info on my commits...
