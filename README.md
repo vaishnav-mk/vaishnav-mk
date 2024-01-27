@@ -7,6 +7,7 @@ Hi, I'm [Vaishnav](https://vaishnav.one) — a CS enthusiast who loves tinkering
 ## Get in touch
 - LinkedIn: [`vaishnav/linkedin`](https://vaishnav.one/linkedin)
 - Email: [`vaishnav/email`](https://vaishnav.one/email)
+- Resume: [`vaishnav/resume`](https://vaishnav.one/view-resume)
 
 
 ## Info on my commits...
