@@ -21,5 +21,4 @@ Hi, I'm [Vaishnav](https://vaishnav.one) — a CS enthusiast who loves tinkering
 |[![Vaishnav](https://github-readme-activity-graph.vercel.app/graph?username=vaishnav-mk&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
 
-`~✨ i use arch btw`
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vaishnav-mk&color=grey" alt="vaishnav-mk"/></p>
